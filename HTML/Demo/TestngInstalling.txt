@@ -1,0 +1,8 @@
+Try 4: Install using manual process I mean download test ng and give a path in market place and install
+https://www.lambdatest.com/blog/how-to-install-testng-in-eclipse-step-by-step-guide/
+1.	Download file from above location
+2.	Keep it into local drive
+3.	Navigate to eclipse go to market place
+4.	Install new s/w click on add button
+5.	Give TestNG, archive -> path of the file from your local machine
+6.	Click on ok button

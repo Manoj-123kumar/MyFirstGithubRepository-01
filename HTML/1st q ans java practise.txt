@@ -1,0 +1,34 @@
+public class Source {
+    public static void main(String args[]){
+	       Scanner sc= new Scanner(System.in);
+	       
+	       int m=sc.nextInt();
+	       
+	     int ac[][] = new int[m][m];
+	      int b[][] = new int[m][m];
+	      int t[][] = new int[m][m];
+	      for(int i = 0;i<m;i++){
+	         for(int j = 0;j<m;j++){
+	             ac[i][j]=sc.nextInt();
+	             
+	         }
+	      }
+	              for(int i = 0; i<m; i++){
+	             for(int j = 0; j<m; j++){
+	            b[i][j] = 0;
+	            for(int k = 0;k<m;k++){
+	               b[i][j]=ac[j][i];
+	            }
+                if(j<m-1){
+                  System.out.print(b[i][j]+" ");
+                }
+                else{
+                    System.out.print(b[i][j]);
+                }
+	            
+	         }
+	         System.out.println();
+	      }         
+	     }
+    }
+valanmca@gmail.com

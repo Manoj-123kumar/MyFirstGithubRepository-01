@@ -1,0 +1,24 @@
+TEST SENARIOS:-
+
+Test Scenario #1 Verify the 
+TS#1 
+       TC-1 Verify the white board should be present into conference room
+       TC-2 Verify the white board should be hanged properly on the wall
+       TC-3 Verify the white board is at proper distance from the ground and from the ceiling so that user can write it on easily
+       TC-4 Verify size of the board should be managed as per the size of wall
+        TC-5 Verify the white board should be smooth (white) for writing
+        TC-6 Verify there won;t be any notes already written on white board or some body already used that white board and saying we can not erased the note until next day
+TS #2
+      Tc-1 user should be able to write on the board with any color of marker
+       Tc-2 User should be able to erased the written note's / data easily
+       Tc-3 Verify the notes written on board should be visible to the audience at corner of the conference room as well
+        Tc-4 Verify the board should not consume the excess ink from the marker
+        TC-5 Verify the marker fonts on the board should be properly print
+https://drive.google.com/file/d/1IcDGhK_-85X1bQIyARSBWqOhzY3O6fkv/view?usp=sharing
+
+
+Author
+Verson
+Date
+Module Name
+
